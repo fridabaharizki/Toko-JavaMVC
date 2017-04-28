@@ -26,5 +26,7 @@ Button Bersih untuk mengosongkan field isian data
 Button Hapus untuk menghapus data pada database kemdian perubahannya ditampilkan pada tabel (data berkurang)
 ![form main hapus](https://cloud.githubusercontent.com/assets/22098189/25412669/b22d8d4a-2a4e-11e7-8f24-ef777678941b.JPG)
 
+Buttton Cari untuk memfilter data sesuai kategori yang dipilih (data menyesuaikan)
+![form main cari](https://cloud.githubusercontent.com/assets/22098189/25512326/05f16c90-2bf7-11e7-9aa4-0bec76011ec9.JPG)
 
 ### FRIDA BAHARIZKI / XIRPL4 / 16 / 4716 / SMK TELKOM MALANG
